@@ -4,9 +4,7 @@ Kyara Parrish
 --------------
 
 -------------------     ----------------------------
-1 Email                             kzp308@psu.edu
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Email                             kzp308@psu.edu
 -------------------     ----------------------------
 
 Education
