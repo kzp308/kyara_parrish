@@ -3,7 +3,7 @@
 Kyara Parrish
 ===========
 
-#### All about my digital work
+##### All about my digital work
 
 Contact
 --
@@ -45,4 +45,10 @@ Community Service
 
 - Duties included assisting teachers with daily activities, working with students, and managing the AR reading program for Summer Academy
 
-
+Skills
+-----
+- Experience in video and music editing using iMovie and Garage Band
+- Experience in web design using Photoshop and Adobe Illustrator
+- Experience with photography
+- Strong communication and social skills
+- Extensive experience in computer and iPad skills and Microsoft applications
