@@ -1,6 +1,6 @@
-# kyara_parrish
+# Kyara Parrish's Site
 This is my site for school purposes.
 
-## My Pets
-shichon:
-![my pet shichon](images/cookie-fall.jpg)
+
+Kyara Parrish:
+![me](images/kyara_beach.jpg)
