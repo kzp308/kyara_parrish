@@ -53,6 +53,9 @@ Skills
 - Strong communication and social skills
 - Extensive experience in computer and iPad skills and Microsoft applications
 
+
+#### [Home](index.md)
+------
 #### [Resume](resume.md)
 ------
 #### [About Me](about.md)
