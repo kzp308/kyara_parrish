@@ -55,7 +55,8 @@ Skills
 
 
 
-
+#### [Home](index.md)
+------
 #### [Resume](resume.md)
 ------
 #### [About Me](about.md)
@@ -64,5 +65,4 @@ Skills
 ------
 #### [Reflection](reflection.md)
 ------
-#### [Home](index.md)
-------
+
