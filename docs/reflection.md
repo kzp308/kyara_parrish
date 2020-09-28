@@ -8,6 +8,9 @@
 A skill I think would be useful in both sites is just learning the code. Studying the Markdown language would be most helpful because then, I would not have to look up things I did not know every few minutes. Studying HTML deeper would be nice too. I know some of it, but only the basics. A skill I want to improve on with Wordpress would just be learning more about HTML than I already know. I want to improve on my Markdown code as well. 
 
 
+
+#### [Home](index.md)
+------
 #### [Resume](resume.md)
 ------
 #### [About Me](about.md)
