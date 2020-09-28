@@ -6,3 +6,13 @@
 	
   Wordpress has many advantages over GitHub. When working with Wordpress, you do not really need to code. You type in the first tab that says “Visual” and the code on the other tab writes itself. It is very useful, especially if you are on a time crunch. GitHub uses Markdown code, and you have to use coding the whole time if you want anything to come out the way you envision it. However, an advantage to GitHub is that even though it’s all code, it’s easier than HTML or CSS. Occasionally, you can still use HTML in GitHub is need be so, that is also very helpful.
 A skill I think would be useful in both sites is just learning the code. Studying the Markdown language would be most helpful because then, I would not have to look up things I did not know every few minutes. Studying HTML deeper would be nice too. I know some of it, but only the basics. A skill I want to improve on with Wordpress would just be learning more about HTML than I already know. I want to improve on my Markdown code as well. 
+
+
+#### [Resume](resume.md)
+------
+#### [About Me](about.md)
+------
+#### [Portfolio](portfolio.md)
+------
+#### [Reflection](reflection.md)
+------
