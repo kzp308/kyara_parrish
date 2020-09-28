@@ -10,6 +10,8 @@ My name is Kyara Parrish. I’m a junior at Pennsylvania State University. My ma
 
 
 
+#### [Home](index.md)
+------
 #### [Resume](resume.md)
 ------
 #### [About Me](about.md)
