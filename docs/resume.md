@@ -54,6 +54,7 @@ Skills
 - Extensive experience in computer and iPad skills and Microsoft applications
 
 
+
 #### [Home](index.md)
 ------
 #### [Resume](resume.md)
