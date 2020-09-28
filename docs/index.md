@@ -3,7 +3,7 @@
 
 #### [Resume](resume.md)
 ------
-#### [About me](about.md)
+#### [About Me](about.md)
 ------
 #### [Portfolio](portfolio.md)
 ------
