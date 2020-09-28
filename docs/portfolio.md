@@ -13,6 +13,9 @@ Digit 100 Annotations
 **IN DIGIT 100 I HAVE DONE A FEW ANNOTATIONS ON HYPOTHES.IS. A LOT OF MY ANNOTATIONS INVOLVED FINDING DEFINITIONS TO WORDS I DIDN’T KNOW OR COMMENTING ON THINGS THAT INTERESTED ME. MY ANNOTATIONS CAN BE FOUND IN THE LINK BELOW.**
 - [Annotations by Kzp308](https://hypothes.is/users/kzp308)
 
+
+#### [Home](index.md)
+------
 #### [Resume](resume.md)
 ------
 #### [About Me](about.md)
