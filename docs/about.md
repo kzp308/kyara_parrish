@@ -1,7 +1,7 @@
 About Page
 =========
 
-<img src="./images/kyara_beach.jpg" alt="kyara" width="300"/>
+<img src="../images/kyara_beach.jpg" alt="kyara" width="300"/>
 
 
 
