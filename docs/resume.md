@@ -52,3 +52,10 @@ Skills
 - Experience with photography
 - Strong communication and social skills
 - Extensive experience in computer and iPad skills and Microsoft applications
+
+#### [Resume](resume.md)
+------
+#### [About Me](about.md)
+------
+#### [Portfolio](portfolio.md)
+------
