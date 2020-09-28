@@ -9,4 +9,5 @@ Hi, I’m Kyara Parrish and welcome to my website! On here there are pages that 
 ------
 #### [Portfolio](portfolio.md)
 ------
-
+#### [Reflection](reflection.md)
+------
