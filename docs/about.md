@@ -16,3 +16,5 @@ My name is Kyara Parrish. I’m a junior at Pennsylvania State University. My ma
 ------
 #### [Portfolio](portfolio.md)
 ------
+#### [Reflection](reflection.md)
+------
