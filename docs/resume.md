@@ -3,7 +3,7 @@
 Kyara Parrish
 ===========
 Contact
--------
+--
 **Email: kzp at psu.edu**
 
 Education
